@@ -33,9 +33,9 @@ body {
   text-align: right;
 }
 
-.about-img img {
+/* .about-img img {
   max-width: 100%;
-}
+} */
 
 .hero-content {
   text-align: center;
@@ -109,6 +109,12 @@ footer a:hover {
 
 
 
+/* @media screen and (min-width: 767px) {
+image{
+  width:75%;
+  margin-right: 20px;
+}
+} */
 
 
 
